@@ -5,7 +5,7 @@ short_description: Using AI to discover new sorbents to lower the cost of direct
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
-image: logo_odac.png
+image: logo.jpg
 submission_guidelines: templates/submission_guidelines.html
 leaderboard_description: ODAC23 Leaderboard
 evaluation_script: evaluation_script/main.py
