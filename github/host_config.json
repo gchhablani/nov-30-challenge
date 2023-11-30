@@ -1,5 +1,5 @@
 {
 	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczMjI0NTM4NCwianRpIjoiOWU1MmQxZDJkODBjNDAwMmFhZGM4MjAzOGM1MGMzM2MiLCJ1c2VyX2lkIjoyfQ.SWTexYfr_OCJBuxehbGNlp2sn0VbXpUAjqrDc4ZUOzk",
 	"team_pk": "1",
-	"evalai_host_url": "http://9c81-68-234-129-38.ngrok-free.app"
+	"evalai_host_url": "https://9c81-68-234-129-38.ngrok-free.app"
 }
