@@ -56,19 +56,19 @@ challenge_phases:
       - name: publication_url
         is_visible: True
     submission_meta_attributes:
-      - name: Institution name
-        description: Institution name
+      - name: 'Institution name'
+        description: 'Institution name'
         type: text
         required: false
-      - name: Background
+      - name: 'Background'
         description: "What's your primary area of expertise (machine learning, chemical engineering, something else?)"
         type: text
         required: false
-      - name: Code URL
-        description: Link to code (if available)
+      - name: 'Code URL'
+        description: 'Link to code (if available)'
         type: text
         required: false
-      - name: Was only ODAC23 data used for training?
+      - name: 'Was only ODAC23 data used for training?'
         description: 'Answer "No" if you used any external data for training'
         type: radio
         options: ["Yes", "No"]
@@ -77,17 +77,17 @@ challenge_phases:
         description: 'How long does it take to train your model and generate predictions?'
         type: text
         required: false
-      - name: Is force being modeled as a conservative vector field?
+      - name: 'Is force being modeled as a conservative vector field?'
         description: 'That is, as a function of the gradient of potential energy'
         type: radio
         options: ["Yes", "No"]
         required: false
       - name: Features
-        description: If you used any hand-designed features, briefly describe them
+        description: 'If you used any hand-designed features, briefly describe them'
         type: text
         required: false
-      - name: What was the dataset size used for training?
-        description: (all frames or something else?)
+      - name: 'What was the dataset size used for training?'
+        description: '(all frames or something else?)'
         type: text
         required: false
     is_restricted_to_select_one_submission: False
