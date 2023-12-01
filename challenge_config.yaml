@@ -34,7 +34,7 @@ leaderboard:
 
 challenge_phases:
   - id: 1
-    name: Predicting energy and forces from structure (S2EF) -- Validation
+    name: Predicting energy and forces from structure S2EF -- Validation
     description: templates/challenge_phase_1_description.html
     leaderboard_public: False
     is_public: True
@@ -94,7 +94,7 @@ challenge_phases:
     is_partial_submission_evaluation_enabled: True
     allowed_submission_file_types: ".npz"
   - id: 2
-    name: Predicting energy and forces from structure (S2EF) -- Test
+    name: Predicting energy and forces from structure S2EF -- Test
     description: templates/challenge_phase_1_description.html
     leaderboard_public: True
     is_public: True
@@ -154,7 +154,7 @@ challenge_phases:
     is_partial_submission_evaluation_enabled: True
     allowed_submission_file_types: ".npz"
   - id: 3
-    name: Predicting relaxed state energy from initial structure (IS2RE) -- Validation
+    name: Predicting relaxed state energy from initial structure IS2RE -- Validation
     description: templates/challenge_phase_1_description.html
     leaderboard_public: False
     is_public: True
@@ -209,7 +209,7 @@ challenge_phases:
     is_partial_submission_evaluation_enabled: True
     allowed_submission_file_types: ".npz"
   - id: 4
-    name: Predicting relaxed state energy from initial structure (IS2RE) -- Test
+    name: Predicting relaxed state energy from initial structure IS2RE -- Test
     description: templates/challenge_phase_1_description.html
     leaderboard_public: True
     is_public: True
